@@ -88,6 +88,13 @@ Respositorio web de Actívate Perú. Se plantea la arquitectura front y buenas p
 - [Redux en español](https://es.redux.js.org/)
 - [Tutorial de Redux](https://code.tutsplus.com/es/tutorials/getting-started-with-redux-learn-by-example--cms-30350)
 
+#### React y typescript
+
+- [Crea un proyecto usando typescript](https://www.youtube.com/watch?v=bmZKIMjJTjs)
+- [Typescript para principiantes](https://code.tutsplus.com/es/tutorials/typescript-for-beginners-getting-started--cms-29329)
+
+## Recursos de aprendizaje opcionales
+
 #### Desarollo de herramientas internas
 
 - [Herramientas internas](https://link.medium.com/iaJ6MVKO45)
@@ -95,8 +102,3 @@ Respositorio web de Actívate Perú. Se plantea la arquitectura front y buenas p
 #### Planteamiento del ambiente de dev
 
 - [Desarollo del ambiente dev](https://link.medium.com/iZVCRGNO45)
-
-#### React y typescript
-
-- [Crea un proyecto usando typescript](https://www.youtube.com/watch?v=bmZKIMjJTjs)
-- [Typescript para principiantes](https://code.tutsplus.com/es/tutorials/typescript-for-beginners-getting-started--cms-29329)

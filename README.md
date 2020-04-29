@@ -20,7 +20,7 @@ Respositorio web de Actívate Perú. Se plantea la arquitectura front y buenas p
 - Sprint Planning (2 weeks)
 - Project Planning (3 months)
 - Bugs
-- Product Owner (2 equipos)
+- Product Owner (3 equipos)
 - Scrum master (lleva a cabo las ceremonias)
 
 ## Task Management
@@ -54,7 +54,7 @@ Respositorio web de Actívate Perú. Se plantea la arquitectura front y buenas p
 
 ## Medidad de rendimiento
 
-- Why did you render - contar de renders
+- Why did you render - contador de renders
 - Perfiles de memoria y network requests
 
 ## Javascript version
@@ -69,9 +69,9 @@ Respositorio web de Actívate Perú. Se plantea la arquitectura front y buenas p
 
 - Usaremos [Semantic Versioning](https://semver.org/) para incrementar el númerp de versión del proyecto
 - Se resume en lo siguiente:
-- MAJOR: se ha realizado un cambio que hace incompatible el API,
-- MINOR: se ha añadido funcionalidad que es compatible con las versiones anteriores
-- PATCH: corriges/arreglas un bug que es compatible hacia atrás
+  - MAJOR: se ha realizado un cambio que hace incompatible el API,
+  - MINOR: se ha añadido funcionalidad que es compatible con las versiones anteriores
+  - PATCH: corriges/arreglas un bug que es compatible hacia atrás
 
 ## Recursos de aprendizaje
 
@@ -79,7 +79,24 @@ Respositorio web de Actívate Perú. Se plantea la arquitectura front y buenas p
 
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 
+#### React hooks
+
+- [Hooks](https://www.adictosaltrabajo.com/2020/02/06/react-hooks-tutorial/)
+
 #### Redux
 
 - [Redux en español](https://es.redux.js.org/)
 - [Tutorial de Redux](https://code.tutsplus.com/es/tutorials/getting-started-with-redux-learn-by-example--cms-30350)
+
+#### Desarollo de herramientas internas
+
+- [Herramientas internas](https://link.medium.com/iaJ6MVKO45)
+
+#### Planteamiento del ambiente de dev
+
+- [Desarollo del ambiente dev](https://link.medium.com/iZVCRGNO45)
+
+#### React y typescript
+
+- [Crea un proyecto usando typescript](https://www.youtube.com/watch?v=bmZKIMjJTjs)
+- [Typescript para principiantes](https://code.tutsplus.com/es/tutorials/typescript-for-beginners-getting-started--cms-29329)

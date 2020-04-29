@@ -1,6 +1,6 @@
 # Activate Web
 
-Respositorio web de Actívate Perú. Se plantea la arquitectura front y buenas prácticas.
+Repositorio web de Actívate Perú. Se plantea la arquitectura front y buenas prácticas.
 
 ## Tech stack
 
@@ -73,6 +73,13 @@ Respositorio web de Actívate Perú. Se plantea la arquitectura front y buenas p
   - MINOR: se ha añadido funcionalidad que es compatible con las versiones anteriores
   - PATCH: corriges/arreglas un bug que es compatible hacia atrás
 
+## ¿Cómo desarrollar una nueva funcionalidad?
+
+- Comenzar desde master. Hacer un checkout (git checkout -b <em>nombre de la nueva rama</em>)
+- El <em>nombre de la nueva rama</em> debe contener su nombre de usuario y el la funcionalidad en la que va a trabajar
+- Ejemplos: steveleec/desarrollo-del-componente-buscador
+- Cuando se tiene lista la funcionalidad, crear un Pull Request en contra del branch <strong>dev</strong>. El <strong>master</strong> branch está restringido
+
 ## Recursos de aprendizaje
 
 #### Javascript
@@ -101,4 +108,4 @@ Respositorio web de Actívate Perú. Se plantea la arquitectura front y buenas p
 
 #### Planteamiento del ambiente de dev
 
-- [Desarollo del ambiente dev](https://link.medium.com/iZVCRGNO45)
+- [Desarrollo del ambiente dev](https://link.medium.com/iZVCRGNO45)
